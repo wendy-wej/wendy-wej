@@ -52,7 +52,7 @@
 <br/>
 
 <a  href="https://github.com/wendy2305/github-readme-stats">
-  <img align="center" height="20px" height="285px" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&theme=radical" />
+  <img align="center" width="480px" height="285px" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/wendy2305/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendy2305&hide=jupyter%20notebook&show_icons=true&theme=radical" />
