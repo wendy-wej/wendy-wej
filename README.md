@@ -58,6 +58,3 @@
 
 
 
-[twitter]: https://twitter.com/chi_thetechsis
-[instagram]:https://www.instagram.com/_simply.wendy_/
-[linkedin]: https://www.linkedin.com/in/chinwendu-nweje/
