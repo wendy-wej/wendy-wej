@@ -48,6 +48,7 @@
   </a>
   
 <br>
+<br>
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -57,6 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>  
   
+<br>
 <br>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -71,6 +73,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 
+<br>
 <br>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
@@ -89,6 +92,7 @@
   </a> 
   
 <br>
+<br>
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -101,7 +105,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy2305&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="wendy2305" /></p>
+<br>
+<br>
+<p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy2305&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="wendy2305" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy2305" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy2305" /></p>
+</p>
 
