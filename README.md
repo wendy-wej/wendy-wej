@@ -111,5 +111,8 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy2305&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="wendy2305" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy2305" /></p>
+  
+  <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendy2305&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /></p>
 </p>
+
 
