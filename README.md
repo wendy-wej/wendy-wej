@@ -2,7 +2,7 @@
 ## I'm a Student and budding Developer!!
 - 🌱 I am current interested in web development and data science
 - 👯 I’m currently working a lot with React and Python, learning more about Front-end development, Data Analysis, and practicing Data Structures and Algorithms.
-- 🥅 2022 Goals: Building full stack web projects and data analysis projects
+- 🥅 2022 Goals: Building front-end web projects and data analysis projects
 - ⚡ Fun fact: I am interested in 3D design and animation
 - 😄 Pronouns: She/Her
 - 💬 Ask me about anything
