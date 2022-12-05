@@ -1,14 +1,14 @@
 # Hi there, I'm Chinwendu Nweje 👋 
 ## I'm a Student and Front-end Developer (on the road to full-stack web development)
 
-I am currently a third year computer science student at Pan-Atlantic University. I currently work as a frontend developer and have interned at organizations like CrowdForce, Convexity and HNG. I primarily work with Reactjs, JavaScript and TailwindCSS for frontend and I have basic experience working with Docker, NestJS, PostgreSQL on the backend. I really love Python and Javascript as I get to use Python for practicing data structurs and algorithms while I use Javascript for web development. Besides web development, I am extremely passionate about data science and hope to find myself working as a data scienctist or research analyst at a big health tech company (like BillionToOne). I am open to learning new things and curating new experiences.
+I am currently a third year computer science student at Pan-Atlantic University. I currently work as a frontend developer and have interned at organizations like CrowdForce, Convexity and HNG. I primarily work with Reactjs, JavaScript and TailwindCSS for frontend and I have basic experience working with Docker, NestJS, PostgreSQL on the backend. I really love Python and Javascript as I get to use Python for practicing data structures and algorithms while I use Javascript for web development. Besides web development, I am extremely passionate about data science and hope to find myself working as a data scienctist or research analyst in future. I am open to learning new things and curating new experiences.
 
-- 🌱 I am current interested in web development and data science.
+- 🌱 I deal with web development and data science.
 - 👯 I’m currently working a lot with React and Python, learning more about frontend development, data science, and practicing data structures and algorithms.
 - 🥅 2022 Goals: Building front-end web projects and data analysis projects
-- ⚡ Fun fact: I am interested in 3D design and animation
+- ⚡ Fun fact: I am passionate 3D design and animation
 - 😄 Pronouns: She/Her
-- 🤔 I’m open to front-end roles (or data analysis roles) specifically.
+- 🤔 I’m open to front-end roles (or data analysis/science roles) specifically.
 - 📫 How to reach me **chinwendu.nweje@pau.edu.ng**
 
 <h3 align="left">Connect with me:</h3>
