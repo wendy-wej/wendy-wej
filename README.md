@@ -1,5 +1,5 @@
 # Hi there, I'm Chinwendu Nweje 👋 
-## I'm a Student and Front-end Developer (on the road to full-stack web development)
+## I'm a Student and aspiring Data Science
 
 - 🌱 I deal with data science and web development.
 - 🥅 Life Goal: To work as a data scientist or research scientist at solution-driven organization.
