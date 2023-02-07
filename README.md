@@ -1,5 +1,5 @@
 # Hi there, I'm Chinwendu Nweje 👋 
-## I'm a student and aspiring data science
+## I'm a student and aspiring data scientist
 
 - 🌱 I deal with data science and web development.
 - 🥅 Life Goal: To work as a data scientist or research scientist at solution-driven organization.
