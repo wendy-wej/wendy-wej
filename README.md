@@ -80,9 +80,9 @@
 <br/>
 
 <p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy2305&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="wendy-wej" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendy-wej&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="wendy-wej" />
 
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendy2305&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" /></p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendy-wej&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" /></p>
   
   <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendy-wej&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /></p>
 </p>
