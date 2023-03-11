@@ -2,8 +2,8 @@
 ## I'm a student and aspiring data scientist
 
 - 🌱 I deal with data science and web development.
-- 🥅 Life Goal: To work as a data scientist or research scientist at solution-driven organization.
-- 👯 I’m currently learn so much about data science, and practicing data structures and algorithms.
+- 🥅 Life Goal: To work as a data scientist or research scientist at a solution-driven organization.
+- 👯 I’m currently learning so much about data science, and practicing data structures and algorithms.
 - ⚡ Fun fact: I love 3D design and animation. 
 - 😄 Pronouns: She/Her
 - 🤔 I’m open to data science roles specifically. (or front-end roles)
@@ -48,10 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
   
-  <a href="https://reactnative.dev/docs/getting-started" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -59,11 +55,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>  
-    
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
     
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="42" height="42"/> 
