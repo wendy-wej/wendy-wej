@@ -1,5 +1,5 @@
----
 [![](https://visitcount.itsvg.in/api?id=wendy-wej&icon=1&color=11)](https://visitcount.itsvg.in)
+---
 # Hi there, I'm Chinwendu 'Wendy' Nweje 👋 
 ## Data Scientist and Software Engineer
 ### 💻 Tech Stack:
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-    <a href="https://www.dev.to/wendy2305" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
     <a href="https://www.linkedin.com/in/chinwendu-nweje/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
     <a href="http://www.medium.com/@wendy_writes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
     <a href="https://www.twitter.com/wendy-wej" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
