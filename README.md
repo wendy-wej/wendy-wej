@@ -36,16 +36,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="42" height="42"/> 
   </a> 
 </p>
-
-
 <p>
-  <p>
        &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendy-wej&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=wendy-wej&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" />
-      
- </p>
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=wendy-wej&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" />  
 </p>
 
+### What I am listening to on Spotify now 🎧
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=75nh7vyfgyfy2drqag61q5zkj&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 
