@@ -36,8 +36,8 @@
   </a> 
 </p>
 <p>
-       &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wendy-wej&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=wendy-wej&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" />  
+       &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chi-nwej&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=chi-nwej&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" />  
 </p>
 
 ### What I am listening to on Spotify now 🎧
