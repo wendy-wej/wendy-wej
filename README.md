@@ -1,6 +1,6 @@
 ### Hi there, I'm Wendy 👋🏾
 I’m a **backend engineer and data scientist** with a growing interest in machine learning, finance, and global development.
-I enjoy building systems, writing thoughtful technical content, and learning new technical content.
+I enjoy building systems, writing thoughtful technical content, and learning new stuff all the time!
 
 
 ### 💻 Tech Stack:
