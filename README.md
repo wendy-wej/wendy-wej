@@ -2,6 +2,11 @@
 I’m a **backend engineer and data scientist** with a growing interest in machine learning, finance, and global development.
 I enjoy building systems, writing thoughtful technical content, and learning new stuff all the time!
 
+<br/>
+
+🔧 My open-source contributions to [FINOS Legend Engine](https://github.com/finos/legend-engine) are made under my work-affiliated account: [@wendy-nweje](https://github.com/wendy-nweje)
+
+<br/>
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-6DA55F?style=flat&logo=openjdk&logoColor=white)
