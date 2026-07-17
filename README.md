@@ -39,7 +39,7 @@ I enjoy building systems, writing thoughtful technical content, and learning new
 
 ### What I am listening to on Spotify now 🎧
 ##### My newly created widget.....
-![Spotify](https://spotify-vinyl-widget-git-main-chi-nwejs-projects.vercel.app/?theme=light)
+![Spotify](https://spotify-vinyl-widget-plum.vercel.app/)
 
 ##### Old widget I got somewhere else.....
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=75nh7vyfgyfy2drqag61q5zkj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=75nh7vyfgyfy2drqag61q5zkj&redirect=true)
