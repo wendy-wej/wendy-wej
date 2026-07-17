@@ -4,7 +4,7 @@ I enjoy building systems, writing thoughtful technical content, and learning new
 
 <br/>
 
-🔧 My open-source contributions to [FINOS Legend Engine](https://github.com/finos/legend-engine) are made under my work-affiliated account: [@wendy-nweje](https://github.com/wendy-nweje)
+🔧 My open-source contributions to [FINOS Legend Engine](https://github.com/finos/legend-engine) are made under my work-affiliated account: [@wendy-nweje-gs](https://github.com/wendy-nweje-gs)
 
 <br/>
 
